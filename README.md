@@ -3,7 +3,7 @@ Simple Chatbot in your terminal using OpenAI API
 
 *Tutorial and more details will be available soon.
 There will be:*
-- Chatbot with OpenAI API
+- [Chatbot with OpenAI API - Tutorial](https://youtu.be/MIglNcDYDic)
 - Chatbot with Local LLM
 - Chatbot with Gemini API
 
