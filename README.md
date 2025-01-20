@@ -1,5 +1,5 @@
 # cli-chatbot
-Simple Chatbot in your terminal using OpenAI API
+Simple Chatbot in your terminal using APIs
 
 *Tutorial and more details will be available soon.
 There will be:*
